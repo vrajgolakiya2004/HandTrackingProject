@@ -24,12 +24,6 @@ This modular approach simplifies the process by reusing a previously created han
 
 ---
 
-## Demo
-
-![Gesture Volume Control](demo.gif)
-
----
-
 ## Requirements
 
 - Python 3.x
